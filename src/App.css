@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  min-height: 100vh;
+  background: url('/home/user/amoremdoces/src/assets/imagem.webp') center / cover;
+}
